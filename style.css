@@ -1,13 +1,4 @@
-.wrap {
-  height: 100%;
-}
 
-
-.wrap {
-  transform-style: preserve-3d;
-  perspective: 200px;
-  animation: hue 4s infinite linear alternate;
-}
 
 .c {
   height: 3px;
