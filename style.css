@@ -5,7 +5,7 @@
 
 .wrap {
   transform-style: preserve-3d;
-  perspective: 400px;
+  perspective: 200px;
   animation: hue 4s infinite linear alternate;
 }
 
