@@ -1,11 +1,7 @@
-html, body, .wrap {
+.wrap {
   height: 100%;
 }
 
-body {
-  background: black;
-  overflow: hidden;
-}
 
 .wrap {
   transform-style: preserve-3d;
