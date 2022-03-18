@@ -1,6 +1,6 @@
 
 .wrap {
-  height: 10%;
+  height: 100%;
   transform-style: preserve-3d;
   perspective: 10px;
   animation: hue 4s infinite linear alternate;
